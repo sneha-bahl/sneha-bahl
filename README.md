@@ -1,9 +1,9 @@
 
-- :blue_book: I am currently enrolled in <a href="https://programsandcourses.anu.edu.au/2019/program/mmlcv">Master of Machine Learning and Coputer Vision</a> at <a href="https://www.anu.edu.au/">Australian National University</a>.
+- :blue_book: I am a graduate in <a href="https://programsandcourses.anu.edu.au/2019/program/mmlcv">Master of Machine Learning and Coputer Vision</a> at <a href="https://www.anu.edu.au/">Australian National University</a>.
 
 - 🔭 I’m currently working on various Machine Learning, Deep Learning and Computer Vision projets.
-- 🌱 I’m currently learning various methods for **hyperparameter tuning, pose estimation and object tracking**.
-- 👯 I’m looking to collaborate on projects related to *Object Detection* and more Machine learning and Computer Vision tasks.
+- 🌱 I’m currently learning various methods for **music discrimination**.
+- 👯 I’m looking to collaborate on projects related to *Music information Retrievel, Pose estimation, object tracking* and more Machine learning and Computer Vision tasks.
 - 💬 Ask me about anything you like!
 - 😄 Pronouns: she/her
 - :heart: I love art and craft. And Baking! :cake:
